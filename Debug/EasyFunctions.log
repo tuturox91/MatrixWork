@@ -1,0 +1,5 @@
+﻿  AllFunc.cpp
+  Main.cpp
+D:\Projects\c++\EasyFunctions\EasyFunctions\Main.cpp(13,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  EasyFunctions.vcxproj -> D:\Projects\c++\EasyFunctions\Debug\EasyFunctions.exe
